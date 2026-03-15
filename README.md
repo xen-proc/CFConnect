@@ -1,6 +1,6 @@
 # CFConnect
 
- AppleScript to open Cloudflare Access tunnels and launch MacOS Screen Sharing to remote machines. Provides a menu to select machines. Created to give a convenient method for users to screenshare into machines. Edit the list of machines in the script, compile, and share.
+ AppleScript to open Cloudflare Access tunnels and launch MacOS Screen Sharing to remote machines. Provides a menu to select machines. Created to give a convenient method for cloudflare tunnel users to screenshare into machines. Edit the list of machines in the script, compile, and share.
 
 ## Prerequisites
 
